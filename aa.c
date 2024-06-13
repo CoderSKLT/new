@@ -2,5 +2,5 @@
 
 int main(void)
 {
-    printf("hello git\n");
+    printf("hello git and vscode\n");
 }
