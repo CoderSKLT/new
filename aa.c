@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    char *str = "dummy change 111";
+    char *str = "dummy change 222";
     printf("hello git and vscode\n");
     return ;
 }
