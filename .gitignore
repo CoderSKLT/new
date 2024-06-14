@@ -1,0 +1,7 @@
+bb.c
+cc.c
+dd.c
+__pycache__
+!readme.md
+__pycache__/hello.cpython-310.pyc
+hello.py
